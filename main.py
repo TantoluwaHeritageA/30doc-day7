@@ -40,3 +40,6 @@ def pick_word():
                 print(word + " + ")
             else:
                 print(" × ")
+
+
+pick_word()
